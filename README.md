@@ -4,3 +4,5 @@ This repository contains machine learning prediction models developed by Harshit
 2. Diabetes Detection Prediction Model
 3. Spam Mail Prediction Model
 4. Home Loan Prediction Model
+5. Boston House Price Prediction Model
+6. Heart Disease Prediction Model
