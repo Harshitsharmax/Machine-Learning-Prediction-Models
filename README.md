@@ -32,6 +32,8 @@ This repository is a curated collection of basic machine learning prediction mod
 8. **Rock vs. Mine Prediction** - Classifies sonar signals as either rocks or mines (submarine objects) based on the energy of the signal at different frequencies.
 
 9. **Spam Mail Prediction** - Classifies emails as spam or not spam based on the content and metadata of the emails.
+
+10. **Medical Insurance Cost Prediction** - Predicts the cost for Health Insurance based on various features like Age, BMI and number of children. 
      
 ## Usage
 
