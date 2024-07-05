@@ -11,6 +11,7 @@ This repository is a curated collection of basic machine learning prediction mod
 1. Support Vector Machine (SVM)
 2. Logistic Regression
 3. XGBoost Regressor
+4. Linear Regression
 
 ## Prediction Models Overview
 
